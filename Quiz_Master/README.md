@@ -49,24 +49,6 @@ A clean, beginner-friendly quiz web app built with vanilla HTML, CSS, and JavaSc
 | 40% – 59%   | Not bad! Try again to improve!     |
 | Below 40%   | Keep studying! You'll get better!  |
 
----
-
-## Getting Started
-
-No build tools or dependencies needed. Just open the project in a browser:
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/quiz-app.git
-
-# Open in browser
-open index.html
-```
-
-Or drag `index.html` directly into any browser window.
-
----
-
 ## Tech Stack
 
 | Technology | Purpose              |
@@ -74,29 +56,3 @@ Or drag `index.html` directly into any browser window.
 | HTML5      | Structure and markup |
 | CSS3       | Styling and layout   |
 | JavaScript | Logic and interactivity |
-
----
-
-## Customising Questions
-
-Questions are stored as a plain array in `script.js`. To add, remove, or edit questions, update the `quizQuestions` array:
-
-```js
-{
-  question: "Your question here?",
-  answers: [
-    { text: "Option A", correct: false },
-    { text: "Option B", correct: true  },
-    { text: "Option C", correct: false },
-    { text: "Option D", correct: false }
-  ]
-}
-```
-
-Each question needs exactly one answer with `correct: true`.
-
----
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
