@@ -2,7 +2,7 @@
 
 A clean, beginner-friendly quiz web app built with vanilla HTML, CSS, and JavaScript — no frameworks or libraries required.
 
-**Live Demo:** [scintillating-genie-3c03a0.netlify.app](https://scintillating-genie-3c03a0.netlify.app)
+**Live Demo:** [Quiz Master](https://scintillating-genie-3c03a0.netlify.app)
 
 ---
 
