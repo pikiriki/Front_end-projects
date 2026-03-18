@@ -1,4 +1,4 @@
-# Quiz Time!
+# Quiz Master!
 
 A clean, beginner-friendly quiz web app built with vanilla HTML, CSS, and JavaScript — no frameworks or libraries required.
 
