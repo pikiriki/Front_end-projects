@@ -15,14 +15,6 @@ Live Demo: [ Color Palette Generator](https://fantastic-bavarois-3e6cc6.netlify.
 - HTML, CSS, JavaScript (vanilla)
 - [Font Awesome 6](https://fontawesome.com/) for icons
 
-## Getting Started
-
-No build step required. Just open `index.html` in a browser.
-
-```bash
-open index.html
-```
-
 ## Usage
 
 1. Click **Generate Palette** to get 5 random colors
