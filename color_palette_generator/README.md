@@ -2,6 +2,8 @@
 
 A simple front-end web app that generates random 5-color palettes with one click.
 
+Live Demo: [ Color Palette Generator](https://fantastic-bavarois-3e6cc6.netlify.app)
+
 ## Features
 
 - Generate a random 5-color palette instantly
