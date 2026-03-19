@@ -4,3 +4,4 @@ Simple projects I have made using HTML, CSS and vanilla JS
 Project:
 
   1. Quiz Master:[ Quiz Master](https://scintillating-genie-3c03a0.netlify.app)
+  2. Color Palette Generator:[ Color Palette Generator](https://fantastic-bavarois-3e6cc6.netlify.app)
