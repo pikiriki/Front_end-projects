@@ -4,7 +4,7 @@ A minimal drag-and-drop Kanban board built with vanilla HTML, CSS, and JavaScrip
 
 ## Demo
 
-Live Demo: [Drag and Drop])https://wonderful-beijinho-91d5f0.netlify.app)
+Live Demo: [Drag and Drop](https://wonderful-beijinho-91d5f0.netlify.app)
 
 ## Features
 
