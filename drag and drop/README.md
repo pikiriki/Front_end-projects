@@ -4,7 +4,7 @@ A minimal drag-and-drop Kanban board built with vanilla HTML, CSS, and JavaScrip
 
 ## Demo
 
-Open `index.html` in any modern browser to run the app locally.
+Live Demo: https://wonderful-beijinho-91d5f0.netlify.app
 
 ## Features
 
